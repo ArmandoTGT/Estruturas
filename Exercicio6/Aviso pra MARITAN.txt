@@ -1,6 +1,0 @@
-Nesse exercicio eu tive um porblema bem grande para mapear o padrão,
-parentemente os juizes criam as arvores aleatoriamente sem nenhuma regra
-eu tentei padronizar e não consegui, para poder comparar os tipos leitura da arvore,
-eu não consegui de jeito nenhum, então tirei um print usando o input de exemplo do
-problema no SPOJ sendo executado no programa, tentei mais não consegui no SPOJ,
-então é isso professor, obrigado pela atenção.
